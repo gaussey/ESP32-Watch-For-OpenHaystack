@@ -13,7 +13,7 @@ This project is based on the firmware for ESP32 from OpenHaystack(https://github
 
 ## OpenHaystack
 
-To discover your device through Apple's Fine my network, you must first run OpenHaystack on your Mac. For more information, please refer to the OpenHaystack Github.
+To discover your device through Apple's Find my network, you must first run OpenHaystack on your Mac. For more information, please refer to the OpenHaystack Github.
 
 ## OpenHaystack Firmware for ESP32
 
